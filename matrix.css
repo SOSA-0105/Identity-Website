@@ -1,0 +1,42 @@
+table, th, td{
+    border: 1px solid black;
+    background: lightyellow;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+div, iframe{
+    margin :0 auto;
+}
+iframe{
+    display:block;
+    border-style: none;
+}
+body{
+    background-image: url(https://cdn.loewshotels.com/loewshotels.com-2466770763/cms/cache/v2/55d6240fe0f22.jpg/1920x1080/fit/80/8d559b185cd308f1af481bd19ae0b9de.jpg);
+    background-image: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{text-align: center;}
+h4{text-align: center;}
+div.transbox{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 4px solid black;
+    opacity: 0.6;
+}
+div.transbox p{
+    margin: auto;
+    font-weight: bold;
+    color: #000000;
+}
+
+form{
+    background-color: ivory;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
